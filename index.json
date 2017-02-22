@@ -1,16 +1,22 @@
 {
   "templates": [
     {
-      "name": "a-category-template",
-      "author": "d.burris",
+      "name": "gitflow",
+      "author": "Devon Burriss",
       "description": "",
-      "location": "some-category/a-category-template"
+      "location": "test-template"
     },
     {
       "name": "test-template",
-      "author": "d.burris",
+      "author": "Devon Burriss",
       "description": "",
       "location": "test-template"
+    },
+    {
+      "name": "a-category-template",
+      "author": "Devon Burriss",
+      "description": "",
+      "location": "some-category/a-category-template"
     }
   ]
 }
