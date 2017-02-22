@@ -1,1 +1,16 @@
-
+{
+  "templates": [
+    {
+      "name": "a-category-template",
+      "author": "d.burris",
+      "description": "",
+      "location": "some-category/a-category-template"
+    },
+    {
+      "name": "test-template",
+      "author": "d.burris",
+      "description": "",
+      "location": "test-template"
+    }
+  ]
+}
